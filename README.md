@@ -25,17 +25,17 @@ This is a solution to the [Single price grid Component challenge on Frontend Men
 
 # Mobile Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Single-Price-Grid-Component/blob/main/Mobile%20preview.PNG)
 
 # Desktop Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Single-Price-Grid-Component/blob/main/Desktop%20preview.PNG)
 
 
 ### Links
 
  - Source code: [https://github.com/romila2003/Single-Price-Grid-Component](https://github.com/romila2003/Single-Price-Grid-Component)
- - Live website: []()
+ - Live website: [https://single-price-grid-component-main.netlify.app/](https://single-price-grid-component-main.netlify.app/)
 
 ## My process
 
