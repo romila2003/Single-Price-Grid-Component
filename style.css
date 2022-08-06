@@ -30,7 +30,7 @@ body {
     flex-direction: column;
     width: 80%;
     max-width: 500px;
-    margin: auto;
+    margin: auto auto;
 }
 
 section {
@@ -125,6 +125,7 @@ ul > li {
     text-align: center; 
     font-family: inherit;
     margin-top: 10px;
+    width: 100%;
 }
 
 .attribution a { 
