@@ -30,7 +30,7 @@ body {
     flex-direction: column;
     width: 80%;
     max-width: 500px;
-    margin: auto auto;
+    margin: 2.5em auto;
 }
 
 section {
